@@ -6,7 +6,8 @@
     Package containing messages for Piksi RTK GPS ROS Driver.
   </description>
 
-  <maintainer email="marcot@ethz.ch">Marco Tranzatto</maintainer>
+  <maintainer email="andres@earthrover.cc">Andres Palomino</maintainer>
+  <maintainer email="ricard@earthrover.cc">Ricard Pardell</maintainer>
 
   <license>BSD</license>
 
