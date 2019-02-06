@@ -2,7 +2,7 @@ piksi_multi_rtk
 ======
 ROS node to read SBP messages from an attached Piksi **Multi** RTK device.
 
-The piksi_multi_rtk_ros package has been tested under ROS Indigo and Ubuntu 14.04, and ROS Kinetic and Ubuntu 16.04.
+The piksi_multi_rtk package has been tested under ROS Indigo and Ubuntu 14.04, and ROS Kinetic and Ubuntu 16.04.
 
 
 **WARNING:** default baud rate of the driver is set to '230400' (default baud rate of Piksi Multi is '115200').
