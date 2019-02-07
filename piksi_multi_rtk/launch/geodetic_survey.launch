@@ -11,10 +11,10 @@
   <arg name="height_base_station_from_ground"         default="1.89"/>
 
   <!-- Piksi. -->
-  <include file="$(find piksi_multi_rtk_ros)/launch/piksi_multi_base_station.launch"/>
+  <include file="$(find piksi_multi_rtk)/launch/piksi_multi_base_station.launch"/>
 
   <!-- Geodetic Survey. -->
-  <node pkg="piksi_multi_rtk_ros" type="geodetic_survey" name="geodetic_survey" output="screen">
+  <node pkg="piksi_multi_rtk" type="geodetic_survey" name="geodetic_survey" output="screen">
     <param name="number_of_desired_fixes"             value="$(arg number_of_desired_fixes)"/>
     <param name="height_base_station_from_ground"     value="$(arg height_base_station_from_ground)"/>
   </node>
