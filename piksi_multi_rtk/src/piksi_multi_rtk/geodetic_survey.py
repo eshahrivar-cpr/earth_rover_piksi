@@ -15,7 +15,7 @@ import time
 
 
 class GeodeticSurvey:
-    kRosPackageName = "piksi_multi_rtk_ros"
+    kRosPackageName = "piksi_multi_rtk"
     kServiceTimeOutSeconds = 10.0
     kWaitBetweenReadReqAndResSeconds = 1.0
     kRelativeTolleranceGeodeticComparison = 1e-10
