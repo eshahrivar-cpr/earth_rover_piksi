@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>earth_rover_piksi</name>
-  <version>1.8.2</version>
+  <version>1.8.1</version>
   <description>Meta-package for the earth_rover_piksi repository.</description>
 
   <maintainer email="andres@earthrover.cc">Andres Palomino</maintainer>
   <maintainer email="ricard@earthrover.cc">Ricard Pardell</maintainer>
 
-  <url>http://www.ros.org/wiki/earth_rover_piksi</url>
+  <url>http://wiki.ros.org/earth_rover_piksi</url>
 
   <license>BSD</license>
 
