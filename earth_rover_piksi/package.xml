@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>earth_rover_piksi</name>
-  <version>1.8.2</version>
+  <version>1.8.3</version>
   <description>Meta-package for the earth_rover_piksi repository.</description>
 
   <maintainer email="andres@earthrover.cc">Andres Palomino</maintainer>

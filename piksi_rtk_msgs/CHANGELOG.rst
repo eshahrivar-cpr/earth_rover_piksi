@@ -2,8 +2,8 @@
 Changelog for package piksi_rtk_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.8.3 (2021-12-07)
+------------------
 * version
 * changelog
 * upgrade msgs

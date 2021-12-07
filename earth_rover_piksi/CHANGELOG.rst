@@ -2,8 +2,8 @@
 Changelog for package earth_rover_piksi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.8.3 (2021-12-07)
+------------------
 * changelog
 * Contributors: Ebrahim Shahrivar
 
