@@ -4,6 +4,11 @@ Changelog for package piksi_rtk_msgs
 
 Forthcoming
 -----------
+* version
+* changelog
+* upgrade msgs
+* Contributors: Ebrahim Shahrivar
+
 * upgrade msgs to v1.11.0
 * Contributors: Ebrahim Shahrivar
 

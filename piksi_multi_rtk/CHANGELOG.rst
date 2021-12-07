@@ -4,6 +4,8 @@ Changelog for package piksi_multi_rtk
 
 Forthcoming
 -----------
+* changelog
+* Contributors: Ebrahim Shahrivar
 
 1.8.2 (2019-02-08)
 ------------------
